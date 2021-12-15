@@ -1,6 +1,6 @@
 # Criando um APP simples de cadastro de séries em .NET :clapper:
 
-Projeto desenvolvido durante a aula **Desafio de Projeto: Criando um APP simples de cadastro de séries em .NET** ministrada pelo instrutor [Eliézer Zarpelão](https://github.com/elizarp) como parte das atividades do bootcamp MRV .NET Developer oferecido pela [MRV](https://www.mrv.com.br) em parceria com a [Digital Innovation One](https://web.digitalinnovation.one).
+Projeto desenvolvido durante a aula **Desafio de Projeto: Criando um APP simples de cadastro de séries em .NET**
 
 ## Objetivo
 
@@ -33,8 +33,8 @@ Usando interfaces, você pode, por exemplo, incluir o comportamento de várias f
 
 ## Copyright
 
-**Author**: Alexsander Lopes Camargos
-**Author-email**: alcamargos@vivaldi.net
+**Author**: Mychell kreme de Oliveira
+**Author-email**: mychellkoliveira@gmail.com
 
 
 ## License
@@ -42,7 +42,7 @@ Usando interfaces, você pode, por exemplo, incluir o comportamento de várias f
 
 -----
 
-*Copyright 2021 - Alexsander Lopes Camargos*
+*Copyright 2021 - Mychell kreme de oliveira*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
